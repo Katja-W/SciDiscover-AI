@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-SciDiscover AI is an intelligent assistant designed for scientists and researchers. It automates the discovery, analysis, and synthesis of scientific literature from online databases, generating curated reading lists, article summaries, and identifying under-reported or promising research avenues for future research.
+**SciDiscover AI** is an intelligent assistant designed for scientists and researchers. It automates the discovery, analysis, and synthesis of scientific literature from online databases, generating curated reading lists, article summaries, and identifying under-reported or promising research avenues for future research.
 
 
 ## Background
@@ -14,7 +14,9 @@ The core problem SciDiscover AI solves is the overwhelming volume of scientific 
 Problem: Scientists spend excessive time on literature review, leading to inefficiencies and potential missed discoveries.
 
 Commonality: This problem is pervasive across all scientific fields and affects every level of researcher, from students to seasoned professionals.
+
 Personal motivation: My motivation stems from the belief that AI can significantly improve the work of scientists by automating tedious data-intensive tasks, allowing researchers to focus on critical thinking, creativity and experimental design, thereby accelerating scientific progress.
+
 Importance: By streamlining literature review and highlighting new research directions, this AI assistant can accelerate breakthrough discoveries and foster interdisciplinary connections.
 
 ## How is it used?
