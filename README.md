@@ -40,10 +40,13 @@ SciDiscover AI would function as a web-based platform or plug-in integrated into
 
 **Situations and Users:**
 
-1.Environment: Primarily used in academic research labs, university libraries, R&D departments in industry, and potentially by professionals or analysts requiring evidence-based information.
-2.Time: Used regularly (daily/weekly) during the literature review phase of any research project, from initial research to thesis writing or grant proposal development.
-3.Users: Academic researchers (PhD students, postdocs, professors), R&D professionals, and anyone needing to quickly and comprehensively grasp a scientific topic.
-4.Needs: Users need accuracy, speed, relevance, and the ability to uncover insights that might be missed through manual review. The interface should be intuitive and integrate seamlessly into existing workflows.
+1.**Environment**: Primarily used in academic research labs, university libraries, R&D departments in industry, and potentially by professionals or analysts requiring evidence-based information.
+
+2.**Time**: Used regularly (daily/weekly) during the literature review phase of any research project, from initial research to thesis writing or grant proposal development.
+
+3.**Users**: Academic researchers (PhD students, postdocs, professors), R&D professionals, and anyone needing to quickly and comprehensively grasp a scientific topic.
+
+4.**Needs**: Users need accuracy, speed, relevance, and the ability to uncover insights that might be missed through manual review. The interface should be intuitive and integrate seamlessly into existing workflows.
 
 ## Data sources and AI methods
 
