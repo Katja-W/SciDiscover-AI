@@ -24,10 +24,15 @@ SciDiscover AI would function as a web-based platform or plug-in integrated into
 Usage process:
 
 1.A researcher enters a research question, specific keywords, an issue or even uploads an existing article of interest.
+
 2.The AI processes the query, searches the relevant scientific online databases and retrieves a selected list of articles.
+
 3.For each suggested article, the AI provides a concise abstract or summary.
+
 4.The user can select specific articles for deeper analysis.
+
 5.The AI then analyses the selected articles, identifying key themes, methodologies and findings.
+
 6.Most importantly, it generates reports that highlight under-reported issues, potential contradictions or promising areas that require further research, effectively suggesting new research directions.
 
 Situations and Users:
